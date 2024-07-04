@@ -11,5 +11,7 @@ easy weather forecast
 
 stm32接了温湿度计，LED灯和LCD1602屏幕
 
+```./template/src/main.c```是源代码, 其他自用库放在```./template/src/SYSTEM```里。
+
 ~~评价：挺好玩的~~
 
