@@ -15,7 +15,7 @@ platformIO使用方法略。
 
 ```./template/src/main.c```是源代码, 其他自用库放在```./template/src/SYSTEM```里。
 
-编译C代码记得在```platformio.ioi```的```build_flags```里加上```-Wl,-u_printf_float```，允许浮点数运算
+编译C代码记得在```./template/platformio.ioi```的```build_flags```里加上```-Wl,-u_printf_float```，允许浮点数运算
 
 ~~评价：挺好玩的~~
 
