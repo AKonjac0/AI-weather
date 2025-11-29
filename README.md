@@ -1,5 +1,5 @@
 # AI-weather
-easy weather forecast 
+simple weather forecast 
 
 根据温湿度预测天气是否下雨
 
@@ -7,7 +7,7 @@ easy weather forecast
 
 模型很简单，效果也不咋地，湿度90%以上报告下雨
 
-使用卷积神经网络(?)训练模型，将参数写到C语言代码，再下载到stm32上
+使用神经网络训练模型，将参数写到C语言代码，再下载到stm32上
 
 stm32接了温湿度计，LED灯和LCD1602屏幕
 
